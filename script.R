@@ -32,3 +32,6 @@ view(data)
 data %>% 
   ggplot(aes(x = TID, y = INDHOLD)) +
   geom_point()
+
+
+https://www.esundhed.dk/Emner/Hvad-doer-vi-af/Doedsaarsager
